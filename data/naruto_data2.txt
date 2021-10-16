@@ -1,0 +1,5 @@
+naruto 1
+sasuke 1
+naruto 2
+sasuke 3
+sakura 1
